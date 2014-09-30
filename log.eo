@@ -1,0 +1,214 @@
+30-Sep-2014 15:09:39 CEST  Initiating request to open file root://eoscms//eos/cms/store/cmst3/user/gpetrucc/miniAOD/v1/GluGluToHToGG_M-125_13TeV-powheg-pythia6_Flat20to50_PAT.root
+30-Sep-2014 15:09:46 CEST  Successfully opened file root://eoscms//eos/cms/store/cmst3/user/gpetrucc/miniAOD/v1/GluGluToHToGG_M-125_13TeV-powheg-pythia6_Flat20to50_PAT.root
+Begin processing the 1st record. Run 1, Event 3801, LumiSection 39 at 30-Sep-2014 15:09:50.996 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3802
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 767.793 0 RSS 315.176 0.125
+
+%MSG
+%MSG-w MemoryCheck:  TriggerResultInserter:TriggerResults  30-Sep-2014 15:09:52 CEST Run: 1 Event: 3802
+MemoryCheck: module TriggerResultInserter:TriggerResults VSIZE 767.793 0 RSS 315.18 0.00390625
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3802
+MemoryCheck: module PoolOutputModule:out VSIZE 768.293 0.5 RSS 315.73 0.550781
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3803
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 768.543 0.25 RSS 315.758 0.0273438
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3803
+MemoryCheck: module PoolOutputModule:out VSIZE 768.543 0 RSS 315.91 0.152344
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3804
+MemoryCheck: module PoolOutputModule:out VSIZE 768.293 -0.25 RSS 315.914 0.00390625
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3805
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 768.543 0.25 RSS 316.164 0.25
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3805
+MemoryCheck: module PoolOutputModule:out VSIZE 768.793 0.25 RSS 316.363 0.199219
+
+%MSG
+Begin processing the 6th record. Run 1, Event 3806, LumiSection 39 at 30-Sep-2014 15:09:52.552 CEST
+Begin processing the 11th record. Run 1, Event 3811, LumiSection 39 at 30-Sep-2014 15:09:52.663 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3811
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 768.543 -0.25 RSS 316.371 0.0078125
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3811
+MemoryCheck: module PoolOutputModule:out VSIZE 768.543 0 RSS 316.395 0.0234375
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3813
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 768.543 0 RSS 316.43 0.0351562
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3813
+MemoryCheck: module PoolOutputModule:out VSIZE 768.543 0 RSS 316.516 0.0859375
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3814
+MemoryCheck: module PoolOutputModule:out VSIZE 768.543 0 RSS 316.52 0.00390625
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3815
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 768.793 0.25 RSS 316.574 0.0546875
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3815
+MemoryCheck: module PoolOutputModule:out VSIZE 768.793 0 RSS 316.613 0.0390625
+
+%MSG
+Begin processing the 16th record. Run 1, Event 3816, LumiSection 39 at 30-Sep-2014 15:09:52.805 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3816
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 768.793 0 RSS 316.691 0.078125
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3816
+MemoryCheck: module PoolOutputModule:out VSIZE 769.043 0.25 RSS 316.754 0.0625
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:52 CEST  Run: 1 Event: 3817
+MemoryCheck: module PoolOutputModule:out VSIZE 769.043 0 RSS 316.766 0.0117188
+
+%MSG
+Begin processing the 21st record. Run 1, Event 3821, LumiSection 39 at 30-Sep-2014 15:09:52.939 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3821
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 -20.25 RSS 327.977 11.2109
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3821
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 328.074 0.0976562
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3822
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 328.121 0.046875
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3822
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 328.137 0.015625
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3825
+MemoryCheck: module PoolOutputModule:out VSIZE 748.543 -0.25 RSS 328.246 0.109375
+
+%MSG
+Begin processing the 26th record. Run 1, Event 3826, LumiSection 39 at 30-Sep-2014 15:09:58.803 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3826
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0.25 RSS 328.434 0.1875
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3826
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 328.461 0.0273438
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3827
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 328.551 0.0898438
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3827
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 328.594 0.0429688
+
+%MSG
+Begin processing the 31st record. Run 1, Event 3831, LumiSection 39 at 30-Sep-2014 15:09:58.940 CEST
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3832
+MemoryCheck: module PoolOutputModule:out VSIZE 748.543 -0.25 RSS 328.82 0.226562
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:58 CEST  Run: 1 Event: 3833
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.543 0 RSS 328.859 0.0390625
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3833
+MemoryCheck: module PoolOutputModule:out VSIZE 748.543 0 RSS 328.883 0.0234375
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3834
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0.25 RSS 329.051 0.167969
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3834
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 329.266 0.214844
+
+%MSG
+Begin processing the 36th record. Run 1, Event 3836, LumiSection 39 at 30-Sep-2014 15:09:59.055 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3836
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 329.27 0.00390625
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3836
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 329.34 0.0703125
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3837
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 329.367 0.0273438
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3837
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 329.434 0.0664062
+
+%MSG
+Begin processing the 41st record. Run 1, Event 3841, LumiSection 39 at 30-Sep-2014 15:09:59.191 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3841
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 329.453 0.0195312
+
+%MSG
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3842
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 329.523 0.0703125
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3842
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 329.535 0.0117188
+
+%MSG
+Begin processing the 46th record. Run 1, Event 3846, LumiSection 39 at 30-Sep-2014 15:09:59.333 CEST
+%MSG-w MemoryCheck:  LeakProducer:myProducerLabel 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3850
+MemoryCheck: module LeakProducer:myProducerLabel VSIZE 748.793 0 RSS 329.566 0.03125
+
+%MSG
+%MSG-w MemoryCheck:  PoolOutputModule:out 30-Sep-2014 15:09:59 CEST  Run: 1 Event: 3850
+MemoryCheck: module PoolOutputModule:out VSIZE 748.793 0 RSS 329.578 0.0117188
+
+%MSG
+30-Sep-2014 15:09:59 CEST  Closed file root://eoscms//eos/cms/store/cmst3/user/gpetrucc/miniAOD/v1/GluGluToHToGG_M-125_13TeV-powheg-pythia6_Flat20to50_PAT.root
+MemoryReport> Peak virtual size 769.043 Mbytes
+ Key events increasing vsize: 
+[0] run: 0 lumi: 0 event: 0  vsize = 0 deltaVsize = 0 rss = 0 delta = 0
+[1] run: 1 lumi: 39 event: 3801  vsize = 767.793 deltaVsize = 0 rss = 315.051 delta = 0
+[2] run: 1 lumi: 39 event: 3802  vsize = 768.293 deltaVsize = 0.5 rss = 315.73 delta = 0.679688
+[3] run: 1 lumi: 39 event: 3803  vsize = 768.543 deltaVsize = 0.25 rss = 315.91 delta = 0.179688
+[5] run: 1 lumi: 39 event: 3805  vsize = 768.793 deltaVsize = 0.25 rss = 316.363 delta = 0.453125
+[18] run: 1 lumi: 39 event: 3818  vsize = 769.043 deltaVsize = 0 rss = 316.738 delta = -0.015625
+[17] run: 1 lumi: 39 event: 3817  vsize = 769.043 deltaVsize = 0 rss = 316.766 delta = 0.0117188
+[16] run: 1 lumi: 39 event: 3816  vsize = 769.043 deltaVsize = 0.25 rss = 316.754 delta = 0.390625
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 MemoryCheck          -w LeakProducer:myP                      18       18
+    2 MemoryCheck          -w PoolOutputModule                      22       22
+    3 MemoryCheck          -w TriggerResultIns                       1        1
+    4 MemoryReport         -s AfterModEndJob                         1        1
+    5 fileAction           -s file_close                             1        1
+    6 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 MemoryCheck          1/3802           1/3803           1/3850
+    2 MemoryCheck          1/3802           1/3803           1/3850
+    3 MemoryCheck          1/3802                            
+    4 MemoryReport         PostEndRun                        
+    5 fileAction           PostEndRun                        
+    6 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                41                  41
+System                  4                   4

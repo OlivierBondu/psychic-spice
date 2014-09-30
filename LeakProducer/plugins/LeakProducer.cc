@@ -29,6 +29,11 @@
 
 #include "FWCore/ParameterSet/interface/ParameterSet.h"
 
+#include "FWCore/Framework/interface/ConsumesCollector.h"
+#include "DataFormats/VertexReco/interface/Vertex.h"
+#include "DataFormats/PatCandidates/interface/PackedCandidate.h"
+
+using namespace edm;
 
 //
 // class declaration
@@ -37,6 +42,7 @@
 class LeakProducer : public edm::EDProducer {
    public:
       explicit LeakProducer(const edm::ParameterSet&);
+      explicit LeakProducer(const edm::ParameterSet&, edm::ConsumesCollector &&);
       ~LeakProducer();
 
       static void fillDescriptions(edm::ConfigurationDescriptions& descriptions);
@@ -52,6 +58,10 @@ class LeakProducer : public edm::EDProducer {
       //virtual void endLuminosityBlock(edm::LuminosityBlock const&, edm::EventSetup const&) override;
 
       // ----------member data ---------------------------
+      edm::EDGetTokenT<View<reco::Vertex> > vertexToken_;
+      edm::EDGetTokenT<View<pat::PackedCandidate> > pfcandidateToken_;
+      double maxAllowedDz_;
+      bool useEachTrackOnce_;
 };
 
 //
@@ -66,8 +76,15 @@ class LeakProducer : public edm::EDProducer {
 //
 // constructors and destructor
 //
-LeakProducer::LeakProducer(const edm::ParameterSet& iConfig)
+LeakProducer::LeakProducer(const edm::ParameterSet& iConfig) :
+    LeakProducer(iConfig, consumesCollector()) {}
+
+LeakProducer::LeakProducer(const edm::ParameterSet& iConfig, edm::ConsumesCollector && iCollector)
 {
+    vertexToken_        = iCollector.consumes<View<reco::Vertex> >(iConfig.getUntrackedParameter<InputTag> ("VertexTag", InputTag("offlineSlimmedPrimaryVertices")));
+    pfcandidateToken_   = iCollector.consumes<View<pat::PackedCandidate> >(iConfig.getUntrackedParameter<InputTag> ("PFCandidatesTag", InputTag("packedPFCandidates")));
+    useEachTrackOnce_   = iConfig.getUntrackedParameter<bool>("UseEachTrackOnce",true);
+    maxAllowedDz_       = iConfig.getParameter<double>("MaxAllowedDz"); // in cm
    //register your products
 /* Examples
    produces<ExampleData2>();
