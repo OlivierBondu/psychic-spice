@@ -1,8 +1,8 @@
 psychic-spice
 =============
 
-Based on an issue from https://github.com/cms-analysis/flashgg
-HN thread : https://hypernews.cern.ch/HyperNews/CMS/get/computing-tools/150/1/1.html
+  * Based on an issue from https://github.com/cms-analysis/flashgg
+  * HN thread : https://hypernews.cern.ch/HyperNews/CMS/get/computing-tools/150/1/1.html
 
 1. Create a CMSSW_7_0_7_patch1 project:
  ```
@@ -13,7 +13,7 @@ HN thread : https://hypernews.cern.ch/HyperNews/CMS/get/computing-tools/150/1/1.
  cmsenv
  ```
  
- 2. Run the simple leaky producer 
+2. Run the simple leaky producer 
  ```
  cd $CMSSW_BASE/src
  git clone https://github.com/OlivierBondu/psychic-spice.git
